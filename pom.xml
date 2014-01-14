@@ -21,7 +21,7 @@
     <groupId>com.miraisolutions</groupId>
     <artifactId>XLConnect</artifactId>
     <packaging>jar</packaging>
-    <version>0.2-6</version>
+    <version>0.2-6-SHA-d186a72b80ea55e171f1cdae51e5903224bf6a98</version>
     <name>XLConnect</name>
     <url>http://www.mirai-solutions.com</url>
     <repositories>
